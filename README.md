@@ -1,4 +1,4 @@
-## Welcome to my Git!
+## 私の GitHub へようこそ!
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -8,6 +8,7 @@
 ---
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🛠 &nbsp;Languages and Tools
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
@@ -56,7 +57,7 @@
 
 ---
 
-<img align="center" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
 ### Spotify Playing 🎧
 
