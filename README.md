@@ -48,8 +48,8 @@
 
 <p align="center">
 <a href="https://github.com/JRMC-PR">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JRMC-PR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JRMC-PR&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JRMC-PR&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JRMC-PR&layout=compact&langs_count=8&theme=synthwave"/>
 </a>
 </p>
 
@@ -60,6 +60,10 @@
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/towartohio)
 
 ---
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <!-- ### Blogs posts -->
 
