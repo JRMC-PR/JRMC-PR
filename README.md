@@ -7,6 +7,7 @@
 
 ---
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### 🛠 &nbsp;Languages and Tools
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
