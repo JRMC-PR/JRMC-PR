@@ -36,12 +36,20 @@
 
 ---
 
+### Major projects worked on at school
+
+| Project name                                                     | Description                                                       |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Printf](https://github.com/JRMC-PR/holbertonschool-printf)      | This program is designed to mimic the printf function in C        |
+| [Simple_Shell](https://github.com/JRMC-PR/holbertonschool-shell) | This program is designed to mimic the abilities of a simple shell |
+| [Monty](https://github.com/JRMC-PR/holbertonschool-monty)        | Stacks, Queues - LIFO, FIFO                                       |
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/JRMC-PR">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JRMC-PR&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JRMC-PR&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JRMC-PR&layout=compact&langs_count=8&theme=cyber"/>
 </a>
 </p>
 
