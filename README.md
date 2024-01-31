@@ -13,8 +13,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![VBA](https://img.shields.io/badge/-VBA-333333?style=flat&logo=vba)
-![Mathlab](https://img.shields.io/badge/-Mathlab-333333?style=flat&logo=mathlab)
+![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -43,7 +42,7 @@
 | Project name                                                     | Description                                                       |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [Printf](https://github.com/JRMC-PR/holbertonschool-printf)      | This program is designed to mimic the printf function in C        |
-| [Simple_Shell](https://github.com/JRMC-PR/holbertonschool-shell) | This program is designed to mimic the abilities of a simple shell |
+| [Simple_Shell](https://github.com/JRMC-PR/holbertonschool-simple_shell) | This program is designed to mimic the abilities of a simple shell |
 | [Monty](https://github.com/JRMC-PR/holbertonschool-monty)        | Stacks, Queues - LIFO, FIFO                                       |
 
 ### ⚙️ &nbsp;GitHub Analytics
