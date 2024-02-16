@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Hey there! Im `Jesus R. Mendez Cruz` you can find me over at:  [GitHub](https://github.com/JRMC-PR) / [linkedin](https://www.linkedin.com/in/jes%C3%BAs-m%C3%A9ndez-068b8a27a/). Im a recenly graduated software engineer from Holberton School. I have a passion for learning and teaching others. I love to code and I am always looking for new challenges and opportunities to grow as a professional.
+- 🤔 &nbsp; Hey there! Im `Jesus R. Mendez Cruz` you can find me over at [linkedin](https://www.linkedin.com/in/jes%C3%BAs-m%C3%A9ndez-068b8a27a/). Im a recenly graduated software engineer from Holberton School. I have a passion for learning and teaching others. I love to code and I am always looking for new challenges and opportunities to grow as a professional.
 - ⚡️ &nbsp; Fun fact: I like playing chess.
 
 ---
